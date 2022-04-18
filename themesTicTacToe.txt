@@ -1,0 +1,48 @@
+<color name="fontColor">#301851</color>
+<color name="fontColor2">#5CCDC9</color>
+<color name="whiteOur2">#1F0247</color>           //темно-сиреневый
+<color name="whiteOur">#31066D</color>
+<color name="backgroundColor">#7F57B6</color>
+
+
+<color name="fontColor">#1D7471</color>
+<color name="fontColor2">#5CCDC9</color>
+<color name="whiteOur2">#006561</color>           //бирюзовый
+<color name="whiteOur">#009B95</color>
+<color name="backgroundColor">#5CCDC9</color>
+
+<color name="fontColor">#476200</color>
+<color name="fontColor2">#5CCDC9</color>
+<color name="whiteOur2">#2E5D00</color>           //лайм
+<color name="whiteOur">#6D9700</color>
+<color name="backgroundColor">#A1CB33</color>
+
+
+<color name="fontColor">#783E1E</color>
+<color name="fontColor2">#5CCDC9</color>
+<color name="whiteOur2">#783E1E	</color>          //морское дно
+<color name="whiteOur">#CF865D</color>
+<color name="backgroundColor">#2DB48F</color>
+
+
+<color name="fontColor">#89C932	</color>
+<color name="fontColor2">#5CCDC9</color>
+<color name="whiteOur2">#CFA234</color>          //гордон
+<color name="whiteOur">#384FB6</color>
+<color name="backgroundColor">#66193B</color>
+
+
+<color name="fontColor">#5FFF00</color>
+<color name="fontColor2">#5CCDC9</color>
+<color name="whiteOur2">#FF003B</color>          //джокер
+<color name="whiteOur">#87FF40</color>
+<color name="backgroundColor">#000000</color>
+
+
+<color name="fontColor">#00FFFF</color>
+<color name="fontColor2">#5CCDC9</color>
+<color name="whiteOur2">#00A6A6</color>          //нежный коралл
+<color name="whiteOur">	#EE7D6E	</color>
+<color name="backgroundColor">#241E27</color>
+
+
